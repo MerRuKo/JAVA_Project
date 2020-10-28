@@ -1,3 +1,12 @@
+유지 보수
+1. git status
+2. git add .
+3. git commit -m "리포지토리명"
+4. git push origin master
+
+
+새 리포지토리
+
 1. 원하는 소스폴더에서 git bash를 실행시킵니다.
 
 2. $ git init
